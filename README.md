@@ -1,3 +1,3 @@
 # currencyConverterVue
 
-A simple use of Axios and Currency API 
+A simple use of Axios and Currency API in VueJs
